@@ -64,8 +64,6 @@ cd cost-dashboard-integrator
 }
 
 
----
-
 ## 9️⃣ Project Structure
 
 ```md
@@ -81,6 +79,7 @@ cost-dashboard-integrator/
 └── screenshots/
     └── json_output.png
 
----
+
+
 
 
