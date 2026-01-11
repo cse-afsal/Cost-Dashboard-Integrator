@@ -83,7 +83,7 @@ cost-dashboard-integrator/
 - Generated frontend-ready JSON data
 - ---   screenshots
 - ---
-##app.py
+## app.py
 <img width="1860" height="961" alt="Screenshot 2026-01-11 153856" src="https://github.com/user-attachments/assets/9a009122-593e-42d7-b23d-d9fb74fadabd" />
 
 
@@ -91,6 +91,7 @@ cost-dashboard-integrator/
 
 ## generate_json.py
 <img width="1505" height="953" alt="Screenshot 2026-01-11 154156" src="https://github.com/user-attachments/assets/b4a2edf3-b827-400d-9e5c-6f8606c4d85b" />
+
 
 
 
