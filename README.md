@@ -84,10 +84,3 @@ That’s it 🎉
 
 ---
 
-If you want, I can:
-- Customize this for **your name**
-- Shorten it if mentor wants **simple README**
-- Verify your **final GitHub repo**
-
-Just tell me 😊
-
