@@ -1,0 +1,22 @@
+{
+    "submitted_by": "your_muid",
+    "grouped_by": "service_type",
+    "services": {
+        "EC2": [
+            {
+                "resource": "ec2-instance-1",
+                "cost": 120.75
+            },
+            {
+                "resource": "ec2-instance-2",
+                "cost": 89.30
+            }
+        ],
+        "S3": [
+            {
+                "resource": "s3-bucket-backups",
+                "cost": 45.60
+            }
+        ]
+    }
+}
