@@ -13,23 +13,23 @@ Objective
 - Understand backend–frontend data contracts
 
 Tech Stack Used
-## 🛠️ Tech Stack
+## Tech Stack
 - Python
 - Flask
 - PostgreSQL
 - psycopg2
 - GitHub
 
-## 🗄️ Database Tables
+## Database Tables
 - aws_resources
 - aws_costs
 - top_cost_resources
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone Repository
 
-git clone https://github.com/your-username/cost-dashboard-integrator.git
+git clone https://github.com/cse-afsal/cost-dashboard-integrator.git
 cd cost-dashboard-integrator
 
 2. Install Dependencies
@@ -46,7 +46,7 @@ python app.py
 ---
 
 
-## 📄 Sample JSON Output
+##  Sample JSON Output
 ```json
 {
   "submitted_by": "your_muid",
@@ -82,12 +82,14 @@ cost-dashboard-integrator/
 └── screenshots/
 └── json_output.png
 ```
+---
 ## 📚 Learning Outcomes
 - Learned how to query and join multiple PostgreSQL tables
 - Understood AWS cost aggregation logic
 - Created backend API using Flask<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/cf0fe62c-5edf-46b5-827e-6ef96bc00632" />
 
 - Generated frontend-ready JSON data
+
 
 
 
