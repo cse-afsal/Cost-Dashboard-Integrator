@@ -5,7 +5,6 @@ and aggregates it into a structured JSON format. The generated JSON is exposed
 through a Flask API endpoint and can be used directly in frontend dashboards
 for cost visualization.
 
-Objective
 ##  Objective
 - Query multiple AWS-related tables from PostgreSQL
 - Aggregate cost data by service and subscription
@@ -92,6 +91,7 @@ cost-dashboard-integrator/
 
 
 <img width="1505" height="953" alt="Screenshot 2026-01-11 154156" src="https://github.com/user-attachments/assets/b4a2edf3-b827-400d-9e5c-6f8606c4d85b" />
+
 
 
 
