@@ -75,12 +75,3 @@ cost-dashboard-integrator/
 
 ---
 
-## ✅ What You Need To Change
-🔹 Replace:
-- `your-username` → your GitHub username  
-- `your_muid` → your actual MUID  
-
-That’s it 🎉
-
----
-
