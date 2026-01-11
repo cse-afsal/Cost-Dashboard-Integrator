@@ -63,6 +63,14 @@ cd cost-dashboard-integrator
   }
 }
 
+
+---
+
+## 9️⃣ Project Structure
+
+```md
+## 📁 Project Structure
+
 cost-dashboard-integrator/
 ├── app.py
 ├── db_config.py
@@ -74,4 +82,5 @@ cost-dashboard-integrator/
     └── json_output.png
 
 ---
+
 
