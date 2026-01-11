@@ -11,7 +11,7 @@ for cost visualization.
 - Generate structured JSON for frontend integration
 - Understand backend–frontend data contracts
 
-Tech Stack Used
+
 ## Tech Stack
 - Python
 - Flask
@@ -91,6 +91,7 @@ cost-dashboard-integrator/
 
 ## generate_json.py
 <img width="1505" height="953" alt="Screenshot 2026-01-11 154156" src="https://github.com/user-attachments/assets/b4a2edf3-b827-400d-9e5c-6f8606c4d85b" />
+
 
 
 
