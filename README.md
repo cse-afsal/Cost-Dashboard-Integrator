@@ -83,13 +83,15 @@ cost-dashboard-integrator/
 - Understood AWS cost aggregation logic
 - Generated frontend-ready JSON data
 - ---   screenshots
+- ---
 
-  - Created backend API using Flask<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/cf0fe62c-5edf-46b5-827e-6ef96bc00632" />
-
-
-
+<img width="1860" height="961" alt="Screenshot 2026-01-11 153856" src="https://github.com/user-attachments/assets/9a009122-593e-42d7-b23d-d9fb74fadabd" />
 
 
+
+
+
+<img width="1505" height="953" alt="Screenshot 2026-01-11 154156" src="https://github.com/user-attachments/assets/b4a2edf3-b827-400d-9e5c-6f8606c4d85b" />
 
 
 
