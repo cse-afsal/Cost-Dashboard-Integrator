@@ -1,4 +1,3 @@
-Explain what this project does in 3–4 lines.
 
 ## 📌 Project Description
 This project integrates AWS resource and cost data from a PostgreSQL database
@@ -6,14 +5,14 @@ and aggregates it into a structured JSON format. The generated JSON is exposed
 through a Flask API endpoint and can be used directly in frontend dashboards
 for cost visualization.
 
-3️⃣ Objective
-## 🎯 Objective
+Objective
+##  Objective
 - Query multiple AWS-related tables from PostgreSQL
 - Aggregate cost data by service and subscription
 - Generate structured JSON for frontend integration
 - Understand backend–frontend data contracts
 
-4️⃣ Tech Stack Used
+Tech Stack Used
 ## 🛠️ Tech Stack
 - Python
 - Flask
@@ -21,7 +20,7 @@ for cost visualization.
 - psycopg2
 - GitHub
 
-5️⃣ Database Tables Used
+Database Tables Used
 
 Explain which tables you used.
 
@@ -33,7 +32,7 @@ Explain which tables you used.
 
 (Optional: You can add column names)
 
-6️⃣ Setup Instructions (MOST IMPORTANT)
+Setup Instructions (MOST IMPORTANT)
 
 Explain how someone can run your project.
 
@@ -54,23 +53,9 @@ Update database credentials in db_config.py
 4. Run Application
 python app.py
 
-5. Open API in Browser
-http://127.0.0.1:5000/api/cost-dashboard
-
 
 ---
 
-## 7️⃣ API Endpoint Details
-
-
-## 🔌 API Endpoint
-- **URL:** `/api/cost-dashboard`
-- **Method:** GET
-- **Description:** Returns aggregated AWS cost data in JSON format
-
-8️⃣ Sample JSON Output (REQUIRED)
-
-Mentors LOVE seeing sample output.
 
 ## 📄 Sample JSON Output
 ```json
@@ -93,7 +78,7 @@ Mentors LOVE seeing sample output.
 ---
 ```
 
-## 9️⃣ Project Structure
+## Project Structure
 
 ## 📁 Project Structure
 
@@ -108,13 +93,13 @@ cost-dashboard-integrator/
 └── screenshots/
 └── json_output.png
 ```
-🔟 Learning Outcomes Mention (IMPORTANT)
 ## 📚 Learning Outcomes
 - Learned how to query and join multiple PostgreSQL tables
 - Understood AWS cost aggregation logic
 - Created backend API using Flask<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/cf0fe62c-5edf-46b5-827e-6ef96bc00632" />
 
 - Generated frontend-ready JSON data
+
 
 
 
