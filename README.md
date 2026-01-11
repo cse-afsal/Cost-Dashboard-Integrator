@@ -40,7 +40,7 @@ Explain how someone can run your project.
 ## ⚙️ Setup Instructions
 
 ### 1. Clone Repository
-```bash
+
 git clone https://github.com/your-username/cost-dashboard-integrator.git
 cd cost-dashboard-integrator
 
@@ -114,3 +114,4 @@ cost-dashboard-integrator/
 - Understood AWS cost aggregation logic
 - Created backend API using Flask
 - Generated frontend-ready JSON data
+
