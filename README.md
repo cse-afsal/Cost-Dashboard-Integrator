@@ -97,7 +97,7 @@ Mentors LOVE seeing sample output.
 
 ## 📁 Project Structure
 
-
+```
 cost-dashboard-integrator/
 ├── app.py
 ├── db_config.py
@@ -107,12 +107,13 @@ cost-dashboard-integrator/
 ├── sample_output.json
 └── screenshots/
 └── json_output.png
-
+```
 🔟 Learning Outcomes Mention (IMPORTANT)
 ## 📚 Learning Outcomes
 - Learned how to query and join multiple PostgreSQL tables
 - Understood AWS cost aggregation logic
 - Created backend API using Flask
 - Generated frontend-ready JSON data
+
 
 
