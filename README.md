@@ -62,7 +62,7 @@ http://127.0.0.1:5000/api/cost-dashboard
 
 ## 7️⃣ API Endpoint Details
 
-```md
+
 ## 🔌 API Endpoint
 - **URL:** `/api/cost-dashboard`
 - **Method:** GET
@@ -91,10 +91,10 @@ Mentors LOVE seeing sample output.
 
 
 ---
+```
 
 ## 9️⃣ Project Structure
 
-```md
 ## 📁 Project Structure
 
 
@@ -114,4 +114,5 @@ cost-dashboard-integrator/
 - Understood AWS cost aggregation logic
 - Created backend API using Flask
 - Generated frontend-ready JSON data
+
 
