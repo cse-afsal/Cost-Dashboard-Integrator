@@ -1,5 +1,5 @@
 
-## 📌 Project Description
+## Project Description
 This project integrates AWS resource and cost data from a PostgreSQL database
 and aggregates it into a structured JSON format. The generated JSON is exposed
 through a Flask API endpoint and can be used directly in frontend dashboards
@@ -20,21 +20,10 @@ Tech Stack Used
 - psycopg2
 - GitHub
 
-Database Tables Used
-
-Explain which tables you used.
-
 ## 🗄️ Database Tables
 - aws_resources
 - aws_costs
 - top_cost_resources
-
-
-(Optional: You can add column names)
-
-Setup Instructions (MOST IMPORTANT)
-
-Explain how someone can run your project.
 
 ## ⚙️ Setup Instructions
 
@@ -99,6 +88,7 @@ cost-dashboard-integrator/
 - Created backend API using Flask<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/cf0fe62c-5edf-46b5-827e-6ef96bc00632" />
 
 - Generated frontend-ready JSON data
+
 
 
 
