@@ -37,8 +37,6 @@ pip install -r requirements.txt
 
 3. Configure Database
 
-Update database credentials in db_config.py
-
 4. Run Application
 python app.py
 
@@ -66,9 +64,6 @@ python app.py
 
 
 ```
-
-## Project Structure
-
 ## 📁 Project Structure
 
 ```
@@ -90,6 +85,7 @@ cost-dashboard-integrator/
 - ---   screenshots
 
   - Created backend API using Flask<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/cf0fe62c-5edf-46b5-827e-6ef96bc00632" />
+
 
 
 
