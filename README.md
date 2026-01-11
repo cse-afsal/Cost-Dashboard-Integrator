@@ -64,7 +64,7 @@ python app.py
 }
 
 
----
+
 ```
 
 ## Project Structure
@@ -86,9 +86,11 @@ cost-dashboard-integrator/
 ## 📚 Learning Outcomes
 - Learned how to query and join multiple PostgreSQL tables
 - Understood AWS cost aggregation logic
-- Created backend API using Flask<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/cf0fe62c-5edf-46b5-827e-6ef96bc00632" />
-
 - Generated frontend-ready JSON data
+- ---   screenshots
+
+  - Created backend API using Flask<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/cf0fe62c-5edf-46b5-827e-6ef96bc00632" />
+
 
 
 
