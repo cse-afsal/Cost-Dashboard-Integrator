@@ -64,7 +64,7 @@ python app.py
 
 
 ```
-## 📁 Project Structure
+##  Project Structure
 
 ```
 cost-dashboard-integrator/
@@ -78,7 +78,7 @@ cost-dashboard-integrator/
 └── json_output.png
 ```
 ---
-## 📚 Learning Outcomes
+## Learning Outcomes
 - Learned how to query and join multiple PostgreSQL tables
 - Understood AWS cost aggregation logic
 - Generated frontend-ready JSON data
@@ -92,6 +92,7 @@ cost-dashboard-integrator/
 
 
 <img width="1505" height="953" alt="Screenshot 2026-01-11 154156" src="https://github.com/user-attachments/assets/b4a2edf3-b827-400d-9e5c-6f8606c4d85b" />
+
 
 
 
